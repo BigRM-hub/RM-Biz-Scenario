@@ -1,0 +1,53 @@
+Craft Beer Brewer: I am a craft brewer who has been making beer in my home for the last 5 years.
+As a new business owner I need a way to keep track of my inventory so I can plan which beer to make next.
+Because I am a small business, I make a reltively small batch and sell it in its entirity.
+
+I would like to record the beer name, the type of beer, and the alcohol by volume (ABV) to the nearest tenth of a percent.
+
+I would also like to know what season the beer was marketed for, the date it was made, and the date it can ship on.
+All beer needs to sit for 42 days after it was made before it can be shipped.
+
+To simplify the reporting for myself, I have given each type of beer I make a numerical code to match:
+1:Lager
+2:IPA
+3:Stout
+4:Porter
+
+
+Q: What is the maximum ABV of a beer you would produce?
+A: Most beers I brew are between 2 and 3 ABV but some of my seasonal beers are as high as 8.5
+
+Q: What is the maximum ammount you have sold your beer for?
+A: I usually make only 1 or 2 kegs of a beer at once and they sell for anywhere between $60 to $100 each but occasionally I will get a request to make more for a larger event.
+   I will never make more than 6 kegs of one beer.
+
+Q: Would you ever have a batch which doesn't sell and is stuck in stock?
+A: I usually only make a beer when I get a request for it but occasionally requests get cancelled after I've started brewing and I can't find a buyer.
+   When this happens I give the beer out to my friends so it doesnt' go bad. Nothing sits for longer than 2 weeks after the date it can ship.
+
+Q: Do you get paid in advance for making a batch of beer?
+A: No. I am only paid when the beer ships.
+
+
+
+Report:
+A list of all the beers waiting to ship and how long they still have to sit before they can ship.
+I would like to know which seasons sell the most beer. Show me the number of kegs I sold per season ordered from most sold to least sold.
+Show me how much I money I made in the last year selling beer
+
+
+Sample Data is in the following order Name, Type, Season, ABV, number of kegs, date it was made, and the cost per keg:
+
+Oktober Fest, Lager, Fall, 2.5, 1, 9/2/2020, $60
+Hazy Dazy, IPA, Summer, 6.3, 2, 5/23/2020, $83.50
+Winter Porter, Porter, Winter, 2, 1, 12/22/2020, $63.99
+Burmuda Stout, Stout, Summer, 2.2, 1, 7/10/2021, $64.20
+Pumkin Ale, Lager, Fall, 2.5, 4, 8/4/2021, $75
+Oktober Fest Lager, Fall, 2.5, 2, 8/21/2021, $73.30
+Double IPA, IPA, Summer, 8, 6, 5/18/2022, $85
+Christmas Stout, Stout, Winter, 5, 1, 11/8/2022, $69.99
+Pumpkin Ale, Lager, Fall, 2.5, 3, 8/20/2022, $62
+Double IPA, IPA, Spring, 8, 1, 2/1/2023, $74.50
+Hazy Dazy, IPA, Summer, 6.3, 2, 6/12/2023, $69.99
+Double IPA, IPA, Winter, 8, 1, 11/21/2023, $74.50
+Oktober Fest, Lager, Fall, 2.5, 4, 7/25/2024, $63
