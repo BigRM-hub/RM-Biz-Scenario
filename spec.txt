@@ -13,6 +13,7 @@ To simplify the reporting for myself, I have given each type of beer I make a nu
 3:Stout
 4:Porter
 
+Questions:
 
 Q: What is the maximum ABV of a beer you would produce?
 A: Most beers I brew are between 2 and 3 ABV but some of my seasonal beers are as high as 8.5
@@ -30,10 +31,10 @@ A: No. I am only paid when the beer ships.
 
 
 
-Report:
-A list of all the beers waiting to ship and how long they still have to sit before they can ship.
-I would like to know which seasons sell the most beer. Show me the number of kegs I sold per season ordered from most sold to least sold.
-Show me how much I money I made in the last year selling beer
+Reports:
+1. Show me a list of all the beers waiting to ship and how long they still have to sit before I can ship them.
+2. I would like to know which seasons sell the most beer. Show me the number of kegs I sold per season ordered from most sold to least sold.
+3. Show me how much I money I made in the last year selling beer
 
 
 Sample Data is in the following order Name, Type, Season, ABV, number of kegs, date it was made, and the cost per keg:
